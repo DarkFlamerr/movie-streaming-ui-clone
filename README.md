@@ -18,5 +18,4 @@ This project is a static clone of the Netflix landing page, created using only H
 - `style.css` – Custom styles
 - `images/` – All necessary media assets
 
-## 🚀 How to Run
-1. Clone this repository:
+🌐 **Live Demo:** https://darkflamerr.github.io/movie-streaming-ui-clone/
